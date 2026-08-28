@@ -1,7 +1,5 @@
 # 🧠 LeetCode Solutions in C
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Daniel_Quintao?theme=dark&font=Syne&ext=activity)
-
 My personal collection of optimized [LeetCode](https://leetcode.com/) solutions written in C. This repository tracks my progression in algorithms, data structures, and manual memory management.
 
 ## 🏗️ Structure
